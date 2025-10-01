@@ -44,7 +44,7 @@ Vous allez devoir gérer les entités suivantes :
 
 ## Ajout d'un film
 
-- Le formulaire d'ajout d'un film doit vous permettre 
+- Le formulaire d'ajout d'un film doit vous permettre d'ajouter un film en saisissant son nom (donnée obligatoire), une liste d'acteur (donnée facultative) et la catégorie du film (donnée obligatoire)
 
 ## API
 
