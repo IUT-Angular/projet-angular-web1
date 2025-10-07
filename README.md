@@ -27,6 +27,7 @@ Vous allez devoir gérer les entités suivantes :
 - Les 2 champs sont obligatoires et tant qu'ils ne sont pas renseigné le bouton de validation du formulaire doit être non cliquable.
 - Pour valider la connexion d'un utilisateur, le login et le mot de passe doivent être identiques.
 - Une fois connecté, l'utilisateur devra être stocké en LocalStorage afin de connecter automatiquement l'utilisateur à la prochaine utilisation de l'application
+- L'accès à toutes les pages devra être soumise à la vérification d'une connexion active
 
 ### Template des pages
 
