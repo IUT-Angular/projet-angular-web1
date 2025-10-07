@@ -41,7 +41,7 @@ Vous allez devoir gérer les entités suivantes :
 - La page d'accueil affichera le nom de l'ensemble des films présents à cette adresse : https://68dd25eb7cd1948060ac9cad.mockapi.io/movies
 - Au clic sur un film, vous accèderez au détail du film
 - Sur chaque film, vous afficherez un bouton "Vu" qui basculera la couleur du titre entre noir et vert à chaque clic
-- Sur la page d'accueil vous aurez la possibilité de filtrer les films selon les critères suivants : nom (champ texte), catégorie (liste déroulante), vu (checkbox)
+- Sur la page d'accueil vous aurez la possibilité de filtrer les films selon les critères suivants : nom (champ texte, contient), catégorie (liste déroulante), vu (checkbox)
 - le titre principal de la page devra être initialisé ainsi : "Bonjour {login}"
 
 ### Détail d'un film
