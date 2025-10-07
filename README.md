@@ -41,6 +41,7 @@ Vous allez devoir gérer les entités suivantes :
 - Au clic sur un film, vous accèderez au détail du film
 - Sur chaque film, vous afficherez un bouton "Vu" qui basculera la couleur du titre entre noir et vert à chaque clic
 - Sur la page d'accueil vous aurez la possibilité de filtrer les films selon les critères suivants : nom (champ texte), catégorie (liste déroulante), vu (checkbox)
+- le titre principal de la page devra être initialisé ainsi : "Bonjour {login}"
 
 ### Détail d'un film
 
